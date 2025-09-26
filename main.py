@@ -28,7 +28,7 @@ def main():
     print("2. 빼기")
     print("3. 히스토리 보기")
     print("4. 종료")
-    print("4. 추가")
+    print("5. 추가")
     
     while True:
         choice = input("\n선택하세요 (1-4): ")
